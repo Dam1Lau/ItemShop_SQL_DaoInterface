@@ -1,0 +1,60 @@
+<list>
+  <customer id="1">
+    <name>Primulo</name>
+    <phone>11111111</phone>
+    <address>One avenue</address>
+    <review item="1">
+      <idReview>1</idReview>
+      <rating>4</rating>
+      <title>Great Computer</title>
+      <description>I really liked how fast it is, 
+It felt like I was the first 
+at loading everything</description>
+      <date>28/10/2018</date>
+      <customerId>1</customerId>
+      <purchaseId>1111</purchaseId>
+    </review>
+  </customer>
+  <customer id="2">
+    <name>Segundine</name>
+    <phone>2222222</phone>
+    <address>Two way street</address>
+    <review item="2">
+      <idReview>2</idReview>
+      <rating>1</rating>
+      <title>Awful laptop</title>
+      <description>Come one, I love being the second at everythng, but with this laptop I was the last one. AWFUL.</description>
+      <date>28/10/2018</date>
+      <customerId>2</customerId>
+      <purchaseId>2222</purchaseId>
+    </review>
+  </customer>
+  <customer id="3">
+    <name>Three MCThird</name>
+    <phone>333333</phone>
+    <address>Third plaza</address>
+  </customer>
+  <customer id="4">
+    <name>Test Customer</name>
+    <phone>876878678</phone>
+    <address>Test Address</address>
+    <review item="4">
+      <idReview>3</idReview>
+      <rating>5</rating>
+      <title>TEST</title>
+      <description>Test</description>
+      <date>28/10/2018</date>
+      <customerId>4</customerId>
+      <purchaseId>4444</purchaseId>
+    </review>
+    <review item="4">
+      <idReview>4</idReview>
+      <rating>1</rating>
+      <title>Esta es nuevita de ahorita</title>
+      <description></description>
+      <date>30/10/2018</date>
+      <customerId>4</customerId>
+      <purchaseId>4444</purchaseId>
+    </review>
+  </customer>
+</list>

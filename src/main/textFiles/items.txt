@@ -1,0 +1,5 @@
+1;Computer;ASUS;750
+2;Laptop;ACER;420
+3;TV;Samsung;500
+4;Screen;Philips;130
+5;Smartphone;Xiaomi;174
