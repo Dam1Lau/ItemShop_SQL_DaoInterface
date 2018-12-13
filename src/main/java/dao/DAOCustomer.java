@@ -23,4 +23,6 @@ public interface DAOCustomer {
     void update(Customer t);
 
     void delete(Customer t);
+    
+    void deleteFull(Customer t);
 }

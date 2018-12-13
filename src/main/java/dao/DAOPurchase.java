@@ -12,7 +12,7 @@ import model.Purchase;
  *
  * @author dam2
  */
-public interface DAOPurchases {
+public interface DAOPurchase {
     Purchase get(Purchase t);
 
     List<Purchase> getAll();
